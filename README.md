@@ -29,9 +29,11 @@ A simple Jetpack Compose app example that displays a **circular profile picture*
 ---
 
 ## Usage
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/shanji361/ProfileNotification.git
+   ```
+2. Place your profile image in `app/src/main/res/drawable/` (or use the default `profileicon.png`).
+3. Run the app in Android Studio.
+4. Tap the "Show Badge"/"Hide Badge" button to toggle the notification badge.
 
-1. Place your profile image in `app/src/main/res/drawable/` (e.g., `profileicon.png`).
-2. Run the app in Android Studio.
-3. Tap the "Show Badge"/"Hide Badge" button to toggle the notification badge.
-
----
